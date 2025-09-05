@@ -131,7 +131,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'swasthgram_db',     
         'USER': 'postgres',         
-        'PASSWORD': 'batchu123', 
+        'PASSWORD': 'your_password', 
         'HOST': 'localhost',         
         'PORT': '5432',             
     }
